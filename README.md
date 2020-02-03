@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/FloraSnap/FloraSnap/_apis/build/status/Miraarchana.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/FloraSnap/FloraSnap/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/v-arven/Demo-project-pipeline/_apis/build/status/Miraarchana.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/v-arven/Demo-project-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
